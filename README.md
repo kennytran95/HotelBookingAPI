@@ -1,6 +1,7 @@
 # HotelBookingAPI 🏨
 
-Backend Engineer 
+Backend Engineer
+
 RESTful API created using C# and .NET 6.0 to handle hotel bookings. It supports CRUD operations, MVC, and uses an in-memory database. 
 
 ![C#](https://img.shields.io/badge/Sharp-2596be.svg?style=for-the-badge&logo=C#&logoColor=white)
